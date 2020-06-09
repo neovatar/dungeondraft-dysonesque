@@ -1,3 +1,3 @@
-# A simple "Dysonesque" Style for Dungeondraft
+# A simple "Dysonesque" style for Dungeondraft
 
 ![example image](example.jpg)
