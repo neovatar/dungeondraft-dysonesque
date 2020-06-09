@@ -1,1 +1,1 @@
-packs/*.dungeondraft_pack filter=lfs diff=lfs merge=lfs -text
+*.dungeondraft_pack filter=lfs diff=lfs merge=lfs -text
