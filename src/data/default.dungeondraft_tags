@@ -1,6 +1,6 @@
 {
 	"tags": {
-		"TomDysonesque": [
+		"Dysonesque": [
 			"textures/objects/altar_1.png",
 			"textures/objects/barrel_1.png",
 			"textures/objects/barrel_2.png",
@@ -68,8 +68,8 @@
 		]
 	},
 	"sets": {
-		"TomDysonesque": [
-			"TomDysonesque"
+		"Dysonesque": [
+			"Dysonesque"
 		]
 	}
 }

@@ -1,0 +1,219 @@
+This work is licensed under the terms of the General Asset License
+Version 1.0. If a copy of the GAL was not distributed with this work,
+it can be obtained at https://generalassetlicense.org/GAL/1.0/.
+
+This work requires attribution under Use, as defined by the General
+Asset License Version 1.0.
+
+Please use this projects GitHub link and my name as attribution:
+
+  Thomas Seliger
+  https://github.com/neovatar/dungeondraft-dysonesque
+
+============== Copy of General Asset License Version 1.0 ==============
+
+Information
+
+This section does not form part of the General Asset License, but
+must be included in any reproduction of the license.
+
+The authors of the General Asset License do not provide legal services
+or legal advice. Distribution of the General Asset License does not
+create a lawyer-client or any other relationship. The General Asset
+License is available "as is", and no warranty is given by its authors
+regarding the license, any material licensed under its terms and
+conditions, or any related information. The authors of the General
+Asset License disclaim all liability for damages resulting from its
+use to the fullest extent possible.
+
+The General Asset License is intended as a general set of terms and
+conditions that rights holders may use to share material subject
+to copyright. Licensors should read and understand the terms and
+conditions of the license before applying it. Licensors are solely
+responsible for determining the appropriateness of using this license,
+and assume any risks associated with the distribution of any work
+under its terms and conditions.
+
+Applying the General Asset License
+
+To distribute a work under the terms of the GAL v.1.0, include the
+notice available in Exhibit A of the license text in a prominent
+location within each file. If it is not possible or desirable to
+include the notice in a particular file, a separate file (such as
+a LICENSE file) may be distributed prominently alongside the work,
+containing the notice and clearly defining which files are subject
+to this license.
+
+Optionally, the attribution notice available in Exhibit B of the
+license text may be included alongside the notice from Exhibit A,
+thus requiring that the work be credited under use as per Section
+3.4 of the license text.
+
+You may also include any relevant notices of copyright ownership.
+
+The distribution of the license text itself is not required for a
+work to be licensed under the GAL, but is highly recommended in the
+case of offline work.
+
+========================================================================
+
+General Asset License Version 1.0
+
+
+1. Definitions
+
+1.1. "License"
+    means this document.
+
+1.2. "Licensor"
+    means the copyright owner(s) or entity(ies) authorized by the
+    copyright owner(s) granting rights under this License.
+
+1.3. "Work"
+    means a digital file or a collection of digital files.
+
+1.4. "Covered Work"
+    means Work to which the notice in Exhibit A has been attached by
+    the Licensor.
+
+1.5. "Modified Form"
+    means any of the following:
+
+        a. any file resulting from additions to, deletions from,
+        or modifications of the contents of Covered Work.
+
+        b. any new file that contains any Covered Work, or parts
+        thereof.
+
+1.6. "Larger Work"
+    means a Work that combines the Covered Work in original or
+    Modified Form, with other material that is not Covered Work,
+    in a separate file or files.
+
+1.7. "Distribute"
+    means making the Covered Work available to third parties, in
+    original or Modified Form, partially or in its entirety, in
+    such form that the recipients could employ the received file(s)
+    to fulfill the original function of the Covered Work.
+
+1.8. "Use"
+    means a Work featuring Covered Work directly or indirectly, in
+    original or Modified Form, wherein the Covered Work itself is
+    not Distributed in such form that the recipients could employ
+    any received file(s) to fulfill the original function of the
+    Covered Work.
+
+1.9. "You" (or "Your")
+    means an individual or entity exercising permissions granted by
+    this License.
+
+
+2. Grants
+
+2.1. Grant of Copyright License
+
+Subject to the terms and conditions of this License, the Licensor
+hereby grants You a world-wide, royalty-free, non-exclusive,
+irrevocable license under intellectual property rights (other than
+patent or trademark) held by the Licensor to use, display, reproduce,
+modify, distribute, sell, and otherwise exploit the Covered Work,
+in original or Modified Form, or as part of a Larger Work.
+
+2.2. Fair Use
+
+For the avoidance of doubt, this License is not intended to limit
+any rights You have under applicable copyright doctrines of fair use,
+fair dealing, or other equivalents, and therefore, where such rights
+apply to Your use, this License does not apply, and You do not need
+to comply with its terms and conditions.
+
+
+3. Conditions and Exceptions
+
+3.1. Distribution
+
+If You Distribute the Covered Work in original or Modified Form,
+the following conditions apply:
+
+    a. Such Work must be made available exclusively under the terms
+    of this License. You must inform recipients that the Work is
+    governed by the terms of this License, and how they can obtain
+    a copy of this License. You may not attempt to alter or restrict
+    the rights of the recipients concerning the Covered Work.
+
+    b. If the "Attribution Notice" found in Exhibit B has been attached
+    to the Work, this notice must be preserved. It may otherwise be
+    added at Your option.
+
+    c. Any copyright notices that may have been supplied with the
+    Work must be preserved.
+
+3.2. Distribution of a Larger Work
+
+If You Distribute a Larger Work, the portion of the Larger Work that
+consists of Covered Work must be made available exclusively under
+the terms of this License, and must fully comply with Section 3.1 of
+this License. Any portion of the Larger Work that consists of other
+material that is not Covered Work may be made available under terms
+of Your choice.
+
+3.3. Use
+
+Any material making Use of the Covered Work (as per the definition in
+Section 1.8), which You might create, or otherwise hold intellectual
+property rights to, is not subject to the terms of this License other
+than Section 3.4, and may be made available under terms of Your choice.
+
+3.4. Attribution
+
+If the "Attribution Notice" found in Exhibit B has been attached to the
+Covered Work, You must credit the Licensor within any material making
+Use of the Covered Work (as per the definition in Section 1.8). Such
+credit must identify the Licensor in any reasonable manner based on
+medium and context, and as requested by the Licensor.
+
+
+4. Disclaimer of Warranty
+
+Unless otherwise separately undertaken by the Licensor, to the
+extent permitted by applicable law, the Licensor offers the Covered
+Work "AS IS" and WITHOUT WARRANTY OF ANY KIND, whether express,
+implied, statutory, or other, including, without limitation,
+warranties of title, merchantability, fitness for a particular
+purpose, non-infringement, absence of defects, or accuracy. You are
+solely responsible for determining the appropriateness of using or
+redistributing the Work and assume any risks associated with Your
+exercise of permissions under this License.
+
+
+5. Limitation of Liability
+
+To the extent permitted by applicable law, under no circumstances
+and under no legal theory, whether in tort (including negligence),
+contract, or otherwise, shall the Licensor be liable to anyone for
+any direct, indirect, special, incidental, or consequential damages
+of any character arising as a result of this License or the use of the
+Covered Work including, without limitation, damages for lost profits,
+loss of goodwill, work stoppage, computer failure or malfunction,
+or any and all other commercial damages or losses, even if such party
+shall have been informed of the possibility of such damages.
+
+
+Exhibit A - License Notice
+
+  This work is licensed under the terms of the General Asset License
+  Version 1.0. If a copy of the GAL was not distributed with this work,
+  it can be obtained at https://generalassetlicense.org/GAL/1.0/.
+
+Exhibit B - Attribution Notice
+
+  This work requires attribution under Use, as defined by the General
+  Asset License Version 1.0.
+
+========================================================================
+
+Copyright (C) 2019 Luca Rood. Permission is hereby granted to reproduce
+and distribute verbatim copies of this license. Permission is also
+granted to freely modify this license, but in doing so, a new license
+is created, and all references to the "General Asset License" or
+"GAL" must be removed from the license text and name.
