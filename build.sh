@@ -7,6 +7,7 @@ rm -rf build/*
 dungeondraft-pack -O src build
 cp LICENSE.txt build
 cp README.md build
+cp CHANGELOG.md build
 
 pushd build
 zip Dysonesque.zip *
