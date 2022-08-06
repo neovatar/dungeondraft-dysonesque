@@ -1,6 +1,6 @@
 {
 	"path": "textures/tilesets/simple/dyson_1.png",
 	"name": "Dyson Simple 1",
-	"type": "normal",
+	"type": "custom_color",
 	"color": "dfdfdf"
 }
