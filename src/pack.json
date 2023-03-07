@@ -1,10 +1,10 @@
 {
 	"name": "Dysonesque",
 	"id": "d6JAz5qD",
-	"version": "2.3.0",
+	"version": "2.3.1",
 	"author": "https://github.com/neovatar",
 	"custom_color_overrides": {
-		"enabled": false,
+		"enabled": true,
 		"min_redness": 0.1,
 		"min_saturation": 0,
 		"red_tolerance": 0.04
