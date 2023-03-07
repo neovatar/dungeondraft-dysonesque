@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v2.4.0
 ### Changed
-- Tiles can now use custom colours
+- Tiles can now use custom colours (thanks [@Bosurgi](https://github.com/Bosurgi))
 
 ## v2.3.0
 ### Changed
@@ -14,6 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v2.2.0
 ### Changed
-- Correct spelling for sarcophagus texture and references correct file (thanks https://github.com/Stew-rt/)
-- Correct reference to table 1 parts (thanks https://github.com/Stew-rt/)
+- Correct spelling for sarcophagus texture and references correct file (thanks [@Stew-rt](https://github.com/Stew-rt/))
+- Correct reference to table 1 parts (thanks [@Stew-rt](https://github.com/Stew-rt/))
 - Use dot separated semver version scheme
