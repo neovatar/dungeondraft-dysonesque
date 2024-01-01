@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v2.5.0
 ### Added
-- Terrain crosshatches also available as tileset pattern (thanks [@Syrious][https://github.com/Syrious])
+- Terrain crosshatches also available as tileset pattern (thanks [@Syrious](https://github.com/Syrious))
 
 ## v2.4.0
 ### Changed
